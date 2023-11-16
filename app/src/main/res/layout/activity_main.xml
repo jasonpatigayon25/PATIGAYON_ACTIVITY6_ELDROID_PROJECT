@@ -15,12 +15,13 @@
 
         <Button
             android:id="@+id/alertDialogButton"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/show_alert"
             android:background="@drawable/button_rounded"
             android:layout_marginTop="8dp"
             android:textColor="#FFFFFF"
+            android:minWidth="300dp"
             app:backgroundTint="@color/black"
             android:padding="12dp" />
         <TextView
@@ -34,12 +35,13 @@
 
         <Button
             android:id="@+id/datePickerDialogButton"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/pick_date"
             android:background="@drawable/button_rounded"
             android:layout_marginTop="8dp"
             android:textColor="#FFFFFF"
+            android:minWidth="300dp"
             app:backgroundTint="@color/black"
             android:padding="12dp" />
         <TextView
@@ -53,12 +55,13 @@
 
         <Button
             android:id="@+id/timePickerDialogButton"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/pick_time"
             android:background="@drawable/button_rounded"
             android:layout_marginTop="8dp"
             android:textColor="#FFFFFF"
+            android:minWidth="300dp"
             app:backgroundTint="@color/black"
             android:padding="12dp" />
         <TextView
@@ -72,12 +75,13 @@
 
         <Button
             android:id="@+id/customDialogButton"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/show_custom_dialog"
             android:background="@drawable/button_rounded"
             android:layout_marginTop="8dp"
             android:textColor="#FFFFFF"
+            android:minWidth="300dp"
             app:backgroundTint="@color/black"
             android:padding="12dp" />
         <TextView
