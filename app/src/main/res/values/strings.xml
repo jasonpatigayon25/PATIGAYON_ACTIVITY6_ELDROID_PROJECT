@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PATIGAYON ACTIVITY6</string>
+    <string name="alert_dialog_title">Alert</string>
+    <string name="alert_dialog_message">This is an alert dialog.</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_user_input">Alert response: %1$s</string>
+    <string name="date_picker_title">Date chosen: %1$s</string>
+    <string name="time_picker_title">Time chosen: %1$s</string>
+    <string name="custom_dialog_input_text">Custom dialog input: %1$s</string>
+    <string name="custom_dialog_title">Custom Dialog</string>
+    <string name="pressed_ok">Pressed OK!</string>
+    <string name="cancelled">Cancelled!</string>
+    <string name="custom_dialog_hint">Enter text</string>
+    <string name="custom_dialog_submit">Submit</string>
+    <string name="show_alert">Show Alert</string>
+    <string name="alert_selection_will_show_here">Alert selection will show here</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="date_selection_will_show_here">Date selection will show here</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="time_selection_will_show_here">Time selection will show here</string>
+    <string name="show_custom_dialog">Show Custom Dialog</string>
+    <string name="custom_dialog_input_will_show_here">Custom dialog input will show here</string>
+</resources>
