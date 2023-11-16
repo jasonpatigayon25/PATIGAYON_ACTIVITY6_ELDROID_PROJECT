@@ -24,6 +24,7 @@
         app:backgroundTint="@color/black"
         android:minWidth="48dp"
         android:minHeight="48dp"
+        android:textColor="#FFFFFF"
         android:layout_gravity="center_horizontal"/>
 </LinearLayout>
 
